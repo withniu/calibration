@@ -1,6 +1,5 @@
 % Monocular calibration
-
-addpath utils
+% Yedong Niu, 05/2014
 
 % Load images
 imgs = load_imgs('.', 'Hero*.png', [], []);
